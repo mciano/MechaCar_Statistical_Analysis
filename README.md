@@ -2,7 +2,8 @@
 
 ## Linear Regression to Predict MPG
 
-Working with [MerchaCar_mpg.csv](MechaCar_mpg.csv)
+Working with [MerchaCar_mpg.csv](MechaCar_mpg.csv) dataset 
+
 and write a short summary using a screenshot of the output from the linear regression, and address the following questions:
 
 - Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
