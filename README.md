@@ -2,13 +2,10 @@
 
 ## Linear Regression to Predict MPG
 
-Working with [MerchaCar_mpg.csv](MechaCar_mpg.csv) dataset 
+Working with [MerchaCar_mpg.csv](MechaCar_mpg.csv) dataset with data from 50 prototype MechaCars. These prototypes were produced based on ideal vehicle performance with some specifications.
+Performing a analysis with R Language designing a linear model to predict the Miles per Gallon (MPG) using some variables and coefficients.
 
-and write a short summary using a screenshot of the output from the linear regression, and address the following questions:
 
-- Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
-- Is the slope of the linear model considered to be zero? Why or why not?
-- Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
 ![](resources/variables_coefficients.png)
 
