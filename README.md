@@ -29,6 +29,7 @@ Now working with different dataset [Suspension_Coil.csv](Suspension_Coil.csv), w
 ## T-Tests on Suspension Coils
 
 Determine if all manufacturing lots are statistically different from the population mean of 1,500 pounds per square inch.
+
 - **Lot 1**
 
 P value 1.568e11 is grater than 0.05 however its not significant, so the Null hypotesis can be accepted.
