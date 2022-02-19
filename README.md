@@ -41,6 +41,7 @@ P value 0.0005911 is lower than 0.05, however its significant, so the Null hypot
 
 
 - **Lot 3**
+
 P value 0.1589 is grater than 0.05 however its not significant, so the Null hypotesis can be accepted.
 
 ![](resources/Lot3.png)
